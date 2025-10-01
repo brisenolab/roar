@@ -1,4 +1,4 @@
-# ROAR - high perfomance computer
+# ROAR - Penn State University:: High Perfomance Computer
 
 
 # Creating a project in github
