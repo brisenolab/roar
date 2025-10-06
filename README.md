@@ -1,7 +1,8 @@
 # ROAR - Penn State University:: High Perfomance Computer
 
-
 # Creating a project in github
+### configure your [git](https://github.com/brisenolab/roar/blob/main/git)
+
 #or create a new repository on the command line
 ```
 echo "# roar" >> README.md
