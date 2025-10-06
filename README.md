@@ -23,4 +23,10 @@ git push -u origin main
 Step 3) Repeat
 
 ### SLURM
-[SLURM](link) script 
+[SLURM](https://github.com/brisenolab/roar/blob/main/slurmscript.m) script 
+
+### Activating conda: CQLS qsub
+```bash
+eval "$(conda shell.bash hook)"
+conda activate <package>
+```
