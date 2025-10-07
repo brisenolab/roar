@@ -1,6 +1,10 @@
 # ROAR - Penn State University:: High Perfomance Computer!!
 
 
+## Where to start
+Guide to [reproducible code](https://www.britishecologicalsociety.org/wp-content/uploads/2017/12/guide-to-reproducible-code.pdf) in Ecology and Evolution
+
+
 ## Manual of setting your computer for git and other computer science stuff
 ### Creating a project in github
 Step 1) Configure your [Git](https://github.com/brisenolab/roar/blob/main/git)
