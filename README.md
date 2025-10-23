@@ -1,5 +1,20 @@
 # ROAR - Penn State University:: High Perfomance Computer!!
 
+## Connect to roarrr
+
+```bash
+ssh <userid>@submit.hpc.psu.edu
+```
+Storage is in `/storage/work/ria5282`, you should have your own workind directory for data analysis. 
+At this point, we have 5 Tb of storage.
+
+## Modules loaded
+
+```bash
+module load spades
+spades.py 
+SPAdes genome assembler v4.2.0
+```
 
 ## Where to start
 Guide to [reproducible code](https://www.britishecologicalsociety.org/wp-content/uploads/2017/12/guide-to-reproducible-code.pdf) in Ecology and Evolution
