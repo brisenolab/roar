@@ -10,18 +10,23 @@ At this point, we have 5 Tb of storage.
 
 ## Modules loaded
 
+To create modules check [MODULES](https://github.com/brisenolab/roar/blob/main/modules/createmodules.md) \
+To check the slurm script [SLURM example](https://github.com/brisenolab/roar/tree/main/slurm)
+
 ```bash
 module load spades
 spades.py 
 SPAdes genome assembler v4.2.0
 ```
 
-## Where to start
+
+
+### Where to start
 Guide to [reproducible code](https://www.britishecologicalsociety.org/wp-content/uploads/2017/12/guide-to-reproducible-code.pdf) in Ecology and Evolution
 
 
-## Manual of setting your computer for git and other computer science stuff
-### Creating a project in github
+### Manual of setting your computer for git and other computer science stuff
+#### Creating a project in github
 Step 1) Configure your [Git](https://github.com/brisenolab/roar/blob/main/git)
 Step 2) Create a new repository on the command line
 ```
