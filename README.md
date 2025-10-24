@@ -17,6 +17,9 @@ To check the slurm script [SLURM example](https://github.com/brisenolab/roar/tre
 module load spades
 spades.py 
 SPAdes genome assembler v4.2.0
+module load ragtag
+ragtag.py --version 
+2.1.0
 ```
 
 
