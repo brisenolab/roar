@@ -57,3 +57,31 @@ Step 3) Repeat
 eval "$(conda shell.bash hook)"
 conda activate <package>
 ```
+
+# useful loops
+
+There are several ways to do for loops in bash, so far this is my favorite syntax:
+
+```
+for k in file.fasta;
+do
+  program $k -parameter1 -par2 -out k_out
+done
+```
+
+```
+while IFS= read -r line
+do
+  Rscript --vanilla ~/folder/file.R $line
+done < file_with_lines.txt
+```
+I like this bash script to go trhough multiple files: useful_script.sh
+
+```
+list=$(ls *.fasta | cut -d_ -f1)
+while IFS= read -r line
+do
+  command -in $line -out $line_out
+done <<< "list"
+`
+Then execute it with sh useful_script.sh, probably you nedd to chmod +x useful_script.sh first.
