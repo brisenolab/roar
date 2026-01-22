@@ -30,7 +30,7 @@ Guide to [reproducible code](https://www.britishecologicalsociety.org/wp-content
 
 ### Manual of setting your computer for git and other computer science stuff
 #### Creating a project in github
-Step 1) Configure your [Git](https://github.com/brisenolab/roar/blob/main/git)
+Step 1) Configure your [Git](https://github.com/brisenolab/roar/blob/main/git.md)\
 Step 2) Create a new repository on the command line
 ```
 echo "# roar" >> README.md
