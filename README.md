@@ -1,6 +1,7 @@
-# ROAR - Penn State University:: High Perfomance Computer!!
+# ROAR Guide 
+# Penn State University:: High Perfomance Computer!!
 
-## Connect to roarrr
+### Connect to roarrr
 
 ```bash
 ssh <userid>@submit.hpc.psu.edu
