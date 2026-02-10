@@ -9,7 +9,7 @@
 
 
 ## Submit your job with 
-```sbatch spades.slurm```
+```sbatch spades.sbatch```
 
 ## SLURM template 
 Running example
