@@ -20,8 +20,8 @@ Running example
 #SBATCH --partition=basic
 #SBATCH --nodes=1
 #SBATCH --ntasks=8
-#SBATCH --mem=128gb
-#SBATCH --time=2:00:00
+#SBATCH --mem=4gb
+#SBATCH --time=00:30:00
 #SBATCH --job-name=spades-testcc
 
 # as usual, cd to the submit directory
