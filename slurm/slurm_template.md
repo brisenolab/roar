@@ -1,6 +1,6 @@
 # SLURM configuration
 
-| Account | qos | aprtition | combinaton compatibilty |
+| Account | qos | partition | combinaton compatibilty |
 |---------|-----|------------|--------------|
 | open    |normal| basic    |     ✅         |
 | ria5282_c+ |  normal  |    ?    |               |
